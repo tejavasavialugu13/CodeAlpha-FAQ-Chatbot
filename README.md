@@ -25,7 +25,7 @@ Installation
 
 Clone the repository:
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/tejavasavialugu13/CodeAlpha-FAQ-Chatbot.git
 
 Install dependencies:
 
